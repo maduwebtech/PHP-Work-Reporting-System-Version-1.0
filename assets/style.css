@@ -1,0 +1,19 @@
+body{
+	background-color: #eee !important;
+}
+.login_form,.register_form,.emp_profile{
+	background-color: #91e1a2;
+	}
+.login_page{
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%,-50%);
+}
+.emp_name{
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+th,td{
+	white-space: nowrap;
+}
